@@ -18,3 +18,14 @@ function add(a, b) {
 let result = add(10, 20);
 
 console.log(result);
+
+function checkEvenOdd(number) {
+    if (number % 2 === 0) {
+        console.log(number + " is Even");
+    } else {
+        console.log(number + " is Odd");
+    }
+}
+
+checkEvenOdd(10);
+checkEvenOdd(7);
