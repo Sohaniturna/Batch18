@@ -30,6 +30,7 @@ function checkEvenOdd(number) {
 checkEvenOdd(10);
 checkEvenOdd(7);
 
+<<<<<<< HEAD
 
 
 
@@ -47,3 +48,9 @@ const randomEmail = `user${Date.now()}@gmail.com`;
 console.log(randomEmail);
 
 
+=======
+let a = 10;
+let b = 20;
+
+console.log(a + b);
+>>>>>>> d84f34aa94127c70114a8272ac13c8d54287f423
