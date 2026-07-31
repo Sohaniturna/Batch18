@@ -29,3 +29,21 @@ function checkEvenOdd(number) {
 
 checkEvenOdd(10);
 checkEvenOdd(7);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const randomEmail = `user${Date.now()}@gmail.com`;
+console.log(randomEmail);
+
+
