@@ -42,3 +42,6 @@ if (num % 2 === 0) {
 } else {
   console.log("Odd");
 }
+
+const randomNumber = Math.floor(Math.random() * 1000);
+console.log(randomNumber);
